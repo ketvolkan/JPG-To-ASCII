@@ -1,0 +1,10 @@
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\bin\Debug\jpgtoascii.exe.config
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\bin\Debug\jpgtoascii.exe
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\bin\Debug\jpgtoascii.pdb
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\obj\Debug\jpgtoascii.csprojAssemblyReference.cache
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\obj\Debug\jpgtoascii.Form1.resources
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\obj\Debug\jpgtoascii.Properties.Resources.resources
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\obj\Debug\jpgtoascii.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\obj\Debug\jpgtoascii.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\obj\Debug\jpgtoascii.exe
+C:\Users\Volkan\source\repos\jpgtoascii\jpgtoascii\obj\Debug\jpgtoascii.pdb
